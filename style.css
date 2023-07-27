@@ -1,3 +1,17 @@
-body { text-align: center;
-font-size: 60px;
+body{
+text-align: center;
+font-size: 43px;
+}
+.cabeçalho{
+    background-color: green white;
+}
+.horta-texto-um{
+    font-size: 20px;
+}
+.titulo-terceiro{
+    font-size: 40px;
+    text-align: left;
+}
+.texto-agrofloresta{
+   font-size: 35px; 
 }
