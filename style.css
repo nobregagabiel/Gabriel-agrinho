@@ -1,10 +1,9 @@
+
 body{
 text-align: center;
 font-size: 43px;
-}
-
-.horta-texto-um{
-    font-size: 20px;
+background-image: linear-gradient(#f17e1f, #f3db07);
+background-image: linear-gradient(#ccda14, #4bd80e);
 }
 .titulo-terceiro{
     font-size: 40px;
@@ -13,13 +12,33 @@ font-size: 43px;
 .texto-agrofloresta{
    font-size: 35px; 
 }
-.foto-inicial {
-    width: 200px;
-    left: top;
+.foto-inicial, text{
+display: inline-block;
+width: 100px;
+display: grid;
 }
 .fotos-projeto {
+
     width: 100px;
+    
 }
 .texto-um{
     font-size: 25px;
+}
+.irrigador{
+    font-size: 25px;
+}
+.desenvolvedor{
+   display: grid;
+   grid-template-columns: 40%;
+    width: 200px;
+}
+.text{
+    font-size: 25px;
+}
+.titulo-um{
+    font-size: 45px;
+}
+.nome {
+  text-align: left;
 }
